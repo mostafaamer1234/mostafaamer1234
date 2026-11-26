@@ -13,6 +13,7 @@ AI software engineer in the San Francisco Bay Area. I build LLM systems that hol
 | [**govcloud-mcp-agent**](https://github.com/mostafaamer1234/govcloud-mcp-agent) | MCP server (official SDK) with enforced mutual TLS, scoped tokens, a zero-egress guard, grounded RAG with citations and a hash-chained audit log, plus 17 tests including end-to-end mTLS | [Walkthrough](https://govcloud-mcp-agent.vercel.app) |
 | [**AI Academic Advisor**](https://github.com/mostafaamer1234/AI_ACADEMIC_ADVISOR) | Multi-agent advisor (orchestrator → executor → finalizer) with transcript-aware RAG, 124 pipeline tests, and an independent catalog-based eval of generated graduation plans | [Plan referee](https://ai-advisor-mostafa.vercel.app) |
 | [**ResearchLLM: Design Thinking**](https://github.com/mostafaamer1234/MultiAgent-LLM-DesignThinking-REU) | Research comparing single-prompt and multi-agent + web systems; the multi-agent system won 9/9 LLM-judge verdicts | [Results](https://researchllm-reu.vercel.app) |
+| [**robot-policy-evals**](https://github.com/mostafaamer1234/robot-policy-evals) | Data-scaling study of ACT vs Diffusion Policy on LeRobot PushT: nested demo subsets, 100 rollouts per model with 95% Wilson intervals. Diffusion rose from 5% to 28% success with more demos | [Results](https://github.com/mostafaamer1234/robot-policy-evals#results) |
 | [**jayd-lang**](https://github.com/mostafaamer1234/jayd-lang) | Statically typed language that compiles to LLVM IR, with ownership/borrow checking and escape analysis; 24–117x faster than CPython on benchmarks | [Playground](https://jayd-lang.vercel.app) |
 | [**GoalForecast**](https://github.com/mostafaamer1234/GoalForecast-ML_Score_Predictor) | Football outcome model with a walk-forward backtest on 6 real Premier League seasons against bookmaker odds | [Predictor](https://goalforecast.vercel.app) |
 
@@ -22,7 +23,7 @@ More live demos: [FactLens](https://factlens-mostafa.vercel.app) · [KeynesAI](h
 
 ## Stack
 
-**AI/ML:** LangChain, LangGraph, MCP, RAG (ChromaDB, OpenSearch, BM25), PyTorch, scikit-learn, XGBoost, YOLO, OpenAI Agents SDK, evals
+**AI/ML:** LangChain, LangGraph, MCP, RAG (ChromaDB, OpenSearch, BM25), PyTorch, LeRobot, scikit-learn, XGBoost, YOLO, OpenAI Agents SDK, evals
 
 **Engineering:** Python (FastAPI, Flask), TypeScript (Next.js, React), SQL, Docker, AWS, GitHub Actions, LLVM
 
