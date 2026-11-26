@@ -1,4 +1,4 @@
-# Hi, I'm Mostafa 👋
+# Hi, I'm Mostafa 
 
 AI software engineer in the San Francisco Bay Area. I build LLM systems that hold up in production: multi-agent orchestration, retrieval with citations, MCP tooling, and the evaluation harnesses that prove they work.
 
