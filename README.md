@@ -6,6 +6,12 @@ AI software engineer in the San Francisco Bay Area. I build LLM systems that hol
 - AI robotics R&D (stealth startup, SF) · AI evaluation for frontier labs (Mercor)
 - Researcher on [LLMs for Design Thinking](https://sites.psu.edu/mcreu/2025/07/20/llms-for-design-thinking/) (Penn State MC-REU) · founder of the Penn State Abington AI Club
 
+## Try every project live
+
+**[mostafaamer1234.github.io](https://mostafaamer1234.github.io)** runs all 12 projects inside one window, so you can use each app without leaving the page.
+
+[![My portfolio switching between live projects](https://raw.githubusercontent.com/mostafaamer1234/mostafaamer1234.github.io/main/assets/portfolio.gif)](https://mostafaamer1234.github.io)
+
 ## Featured projects
 
 | Project | What it shows | Live |
@@ -29,4 +35,4 @@ More live demos: [FactLens](https://factlens-mostafa.vercel.app) · [KeynesAI](h
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/mostafa-amer-a27b31291/) · [Portfolio](https://sites.google.com/view/mostafaamerportfolio/home)
+[LinkedIn](https://www.linkedin.com/in/mostafa-amer-a27b31291/) · [Portfolio](https://mostafaamer1234.github.io)
